@@ -37,7 +37,7 @@ menu:
 
 # github地址, 头部导航右上角的github链接
 Github: 
-  on: true
+  on: false
   url: https://github.com/yuang01/hexo-theme-bamboo
 
 # 网站logo
@@ -56,8 +56,8 @@ sidebar:
       avatar: http://api.btstu.cn/sjtx/api.php?lx=c1&format=images
       shape: rectangle # circle, rectangle
       url: /about/
-      title: 青墨书晚风
-      subtitle: 我是副标题
+      title: 我在想。。。
+      subtitle: ithink...
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
       fontFammily: Long Cang,cursive
       background: '#fff'
