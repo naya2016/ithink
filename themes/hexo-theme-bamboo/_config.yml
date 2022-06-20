@@ -334,11 +334,11 @@ toc:
 music:
   on: true
   autoHide: true    # hide automaticaly
-  server: tencent   #require	music platform: netease, tencent, kugou, xiami, baidu
+  server: netease   #require	music platform: netease, tencent, kugou, xiami, baidu
   type: playlist    #require song, playlist, album, search, artist
-  id: 8062553743     #require	song id / playlist id / album id / search keyword
+  id: 5033261135     #require	song id / playlist id / album id / search keyword
   fixed: true       # 开启吸底模式，建议开启
-  autoplay: false   # 是否自动播放, 有些浏览器会禁用自动播放，目前edge可以自动播放
+  autoplay: true   # 是否自动播放, 有些浏览器会禁用自动播放，目前edge可以自动播放
   theme: '#42b983'
   loop: 'all'       # 音频循环播放, 可选值: 'all', 'one', 'none'
   order: 'random'   # 音频循环顺序, 可选值: 'list', 'random'
@@ -350,9 +350,9 @@ music:
 # 关于我
 baseInfo:
   on: true
-  age: 99 # 年龄
+  age: 17 # 年龄
   sex: '男' # 性别
-  coordinate: '火星' # 坐标
+  coordinate: '贝加尔湖畔' # 坐标
   status: '划水中' # 状态
 
 # 关于我 技能
@@ -381,7 +381,7 @@ socialAccounts:
   # data: # data下面的值，不是固定个数的，可以自己增加或者删除
   #   QQ:
   #     icon: fas fa-qq
-  #     name: xxxxxxxx
+  #     name: 纳雅
   #     url: 'http://www.baidu.com'
   #   微信:
   #     icon: fas fa-weixin
@@ -390,7 +390,7 @@ socialAccounts:
 
 # 关于我 游戏
 games:
-  on: true
+  on: false
   # data: # data下面的值，不是固定个数的，可以自己增加或者删除
   #   王者荣耀:
   #     img: 'https://pic2.zhimg.com/80/v2-54730a36304842b86a57a237b8b39945_720w.jpg?source=1940ef5c'
@@ -419,9 +419,9 @@ copyright:
 # 首页座右铭
 motto:
   on: true
-  title: '座右铭'
-  content: '沉淀后我愿意做个温暖的人，有自己的喜好，有自己的原则，有自己的信仰，不急功近利，不浮夸轻薄。宠辱不惊，淡定安逸，心静如水，不忘初心，方得始终。——凌茜'
-  background: 'url("https://img10.360buyimg.com/ddimg/jfs/t1/166587/8/21344/72069/6088c24fEda5fdeb6/f9730ab637b7ca47.png")' # url("xxx") or red or #000 or rgba() ..
+  title: '一碗鸡汤'
+  content: ''
+  background: 'url("https://img10.360buyimg.com/ddimg/jfs/t1/166587/8/21344/72069/6088c24fEda5fdeb6/f9730ab637b7ca47.png")' # url("xxx") or r #000 or rgba() ..
 
 # 首页公告
 notice:
