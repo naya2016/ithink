@@ -714,7 +714,7 @@ site_footer:
     #   url: https://github.com/yuang01/hexo-theme-bamboo
     # - icon: fas fa-qq
     #   url: tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1730241541
-  copyright: 'Copyright © <a href="https://naya.vercel.app/">纳雅</a> | Powered by <a href="https://hexo.io/zh-cn/docs/">Hexo</a> '
+  copyright: 'Copyright © <a href="https://naya.vercel.app/">纳雅</a> '
   custom: # 根据需要自行取消注释，label: 'markdown格式'，会在下面继续增加内容
     # - label: '<br>'
     # - label: '[Hello World](http://baidu.com)'
