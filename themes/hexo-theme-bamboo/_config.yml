@@ -806,7 +806,7 @@ import:
   script: 
     # - <script src="xxx.js"></script>
     
-    - <script src="./source/js/live2d.js"></script>
+    - <script src="/js/live2d.js"></script>
 
 # 文章图片,不指定 img:xxx 的时候随机取下面的图片
 imgs:
