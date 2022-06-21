@@ -382,11 +382,11 @@ socialAccounts:
   #   QQ:
   #     icon: fas fa-qq
   #     name: 纳雅
-  #     url: 'http://www.baidu.com'
+  #     url: 'https://user.qzone.qq.com/247015815'
   #   微信:
   #     icon: fas fa-weixin
-  #     name: xxxxxxxx
-  #     url: 'http://www.baidu.com'
+  #     name: 
+  #     url: '#'
 
 # 关于我 游戏
 games:
