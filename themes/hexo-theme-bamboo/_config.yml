@@ -187,7 +187,7 @@ swiper:
   # 当没有文章设置swiper: true时候，轮播图会显示以下default默认内容，可自行切换对应内容
   defaultImg: 'https://s1.ax1x.com/2022/06/20/Xxzf10.png' # 图片，没有则随机选取
   defaultVideo: 'https://cdn-delta-dusky.vercel.app/naya-360p.mp4'
-  defaultVideoLoadingImg: 'https://img14.360buyimg.com/ddimg/jfs/t1/175057/18/19582/882056/60ee7ac8Ef0045710/202d2ad878684a3b.gif' # video loading img -- use .gif img, 视频预加载动画，使用gif图片作为loading，为空则视频没有预加载动画
+  defaultVideoLoadingImg: 'https://img.lanrentuku.com/img/allimg/1609/5-160914192R0-50.gif' # video loading img -- use .gif img, 视频预加载动画，使用gif图片作为loading，为空则视频没有预加载动画
   defaultTile: '纳雅' # 标题
   defaultDesc: [] #描 述，例如 ['煮酒洗净尘嚣，论知交', '万般付之一笑，共偕老']
   defaultLeftBtnText: '' # 左边按钮文字, 空字符串则不显示
